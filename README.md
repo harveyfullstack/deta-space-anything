@@ -1,5 +1,5 @@
 # Deta Space Anything
-Remove the “X-Frame-Options” from All Websites Embedded Within Deta Space’s Horizon
+Remove the “X-Frame-Options” from All Websites Embedded Within Deta Space’s Horizon via Electron.
 ![image](https://github.com/harveyfullstack/deta-space-anything/assets/75546183/78439cf5-0a61-40f2-af2b-eec05cbfa90f)
 
 # How To Run
