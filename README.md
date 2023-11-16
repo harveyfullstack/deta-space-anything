@@ -5,4 +5,4 @@ Remove the “X-Frame-Options” from All Websites Embedded Within Deta Space’
 # How To Run
 `npm start`
 # Implications
-This application removes many mandatory security features built in to a standard web browser. This project is purely for educational purposes — please be aware of what you're doing.
+This application removes a mandatory security feature built in to standard web browsers. This project is purely for educational purposes and is a proof-of-concept — please be aware of what you're doing.
